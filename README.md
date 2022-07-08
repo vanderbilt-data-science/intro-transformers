@@ -6,5 +6,5 @@ Transformer-based large language models have been widely applied in the analysis
 ## Resources
 * Those with a vanderbilt.edu email address can log into O'Reilly Media and access the **book** *Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra and Thomas Wolf : https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/. Vanderbilt licenses all content from O’Reilly.
 * HuggingFace's **online course** offers an excellent introduction to Natural Language Processing using transformers in the HuggingFace ecosystem: https://huggingface.co/course
-* TODO: Recordings of previous workshops
-* TODO: Include syllabus to DS 5899?? Ask about this
+* AI Summer: https://github.com/vanderbilt-data-science/ai_summer
+* For graduate students or undergrad seniors at Vanderbilt, consider the course DS 5899: https://docs.google.com/document/d/1Oh1qtLDE35R3HqqEHL_KaDgOkCiwAVaJmAKn-dEckkE/edit
